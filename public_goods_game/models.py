@@ -5,8 +5,8 @@ import itertools
 
 class Constants(BaseConstants):
     name_in_url = "public_goods_punishment"
-    players_per_group = 3
-    num_rounds = 4
+    players_per_group = 5
+    num_rounds = 7
     num_recent_rounds_to_display = 3
     endowment = 20
     efficiency_factor = 0.375
